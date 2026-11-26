@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
+# Stata outputs and logs
+*.log
+*.smcl
+*.rtf
+wdi_clean.dta
+gsma_clean.dta
+mobile-money-staggered-did/output/*.png
+
+# OS
+.DS_Store
+Thumbs.db
