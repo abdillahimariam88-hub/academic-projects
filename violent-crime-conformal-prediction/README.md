@@ -1,7 +1,9 @@
 # Quantifying Uncertainty in Violent Crime Prediction — A Conformal Prediction Approach
 
 **M2 Machine Learning Final Project, Aix-Marseille School of Economics (2026)**
+
 Group project: Kelly Hillah, **Mariam Abdillahi Ahmed**, Chaima El Hadad, Ouiam El Ghalbzouri
+
 📄 [Full report (PDF)](./report/violent_crime_conformal_prediction_report.pdf) · 📓 [Notebook](./notebook/violent_crime_conformal_prediction.ipynb)
 
 ## My contribution
