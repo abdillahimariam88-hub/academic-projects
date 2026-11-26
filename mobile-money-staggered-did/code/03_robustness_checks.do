@@ -15,6 +15,7 @@
 
 clear 
 use "data/cleaned_data.dta", clear
+capture mkdir "output"
 
 * Encode: Convert string iso3 to numeric cid (country_id)
 encode iso3, gen(cid)
