@@ -1,7 +1,9 @@
 # How Mobile Money Affects Individuals' Economic Behaviour — A Staggered DiD Analysis
 
 **M1 Empirical Project, Aix-Marseille School of Economics (2026)**
+
 Group project: Yun Hao, **Mariam Abdillahi Ahmed**, Kelly Hillah
+
 📄 [Full report (PDF)](./report/mobile_money_empirical_report.pdf)
 
 ## My contribution
